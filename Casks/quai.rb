@@ -1,6 +1,6 @@
 cask "quai" do
-  version "1.3.0"
-  sha256 "6fe428f592f03234683f0860c02158f8ba5f3efb0f05192e23f2f9429c4bddd8"
+  version "1.3.1"
+  sha256 "c64312c319c6023c4cf1ca47a6f06585734833d118e4b3114f71d5cb30a5eb28"
 
   url "https://github.com/leehack/homebrew-quai/releases/download/v#{version}/QuAI-#{version}.dmg"
   name "QuAI"
