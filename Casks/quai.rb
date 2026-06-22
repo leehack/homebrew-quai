@@ -5,7 +5,7 @@ cask "quai" do
   url "https://github.com/leehack/homebrew-quai/releases/download/v#{version}/QuAI-#{version}.dmg"
   name "QuAI"
   desc "Professional AI-powered text correction for macOS"
-  homepage "https://github.com/leehack/quai"
+  homepage "https://github.com/leehack/homebrew-quai"
 
   app "QuAI.app"
 
