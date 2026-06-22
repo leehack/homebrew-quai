@@ -7,6 +7,8 @@ cask "quai" do
   desc "Professional AI-powered text correction for macOS"
   homepage "https://github.com/leehack/homebrew-quai"
 
+  depends_on macos: ">= :sonoma"
+
   app "QuAI.app"
 
   zap trash: [
